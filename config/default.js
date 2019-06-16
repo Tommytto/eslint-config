@@ -57,7 +57,7 @@ module.exports = {
         'no-bitwise': 2,
         'no-caller': 2,
         'no-catch-shadow': 2,
-        'no-console': [2, {allow: ['error', 'warn']}],
+        'no-console': 0,
         'no-continue': 2,
         'no-div-regex': 2,
         'no-else-return': 2,
