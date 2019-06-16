@@ -1,8 +1,8 @@
 {
   "name": "@work-environment/eslint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
-  "main": "index.js",
+  "main": "config/default.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,11 +16,10 @@
     "url": "https://github.com/Tommytto/eslint-config/issues"
   },
   "homepage": "https://github.com/Tommytto/eslint-config#readme",
-  "devDependencies": {
-    "eslint": "^5.16.0"
-  },
+  "devDependencies": {},
   "dependencies": {
     "babel-eslint": "^10.0.1",
+    "eslint": "^5.16.0",
     "eslint-plugin-flowtype": "^3.10.3",
     "eslint-plugin-import": "^2.17.3",
     "eslint-plugin-jsx-a11y": "^6.2.1",
